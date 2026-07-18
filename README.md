@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Dr. OLUBODE Tolulope Patience, PhD</h1>
 
 <h3 align="center">
-Microbiologist • Food Microbiology Researcher • Lecturer • Academic • Scientific Reviewer
+Microbiologist • Food Microbiology Researcher • Lecturer • Scientific Reviewer
 </h3>
 
 <p align="center">
@@ -14,35 +14,24 @@ Oyo State College of Agriculture and Technology (OYSCATECH), Nigeria
 
 # 👩‍🔬 Professional Summary
 
-I am a Food Microbiologist, researcher, lecturer, and academic dedicated to advancing research in food microbiology, microbial biotechnology, food safety, environmental microbiology, and applied microbiology.
+I am a Food Microbiologist, researcher, and lecturer dedicated to advancing food safety, microbial biotechnology, and sustainable agricultural systems. My research explores food preservation, beneficial microorganisms, biosorption, and the antimicrobial properties of medicinal plants.
 
-My research focuses on food preservation, beneficial microorganisms, biosorption, probiotics, antimicrobial activities of medicinal plants, environmental microbiology, and sustainable biotechnology for food and agricultural systems.
-
-I teach undergraduate students, supervise research projects, publish scientific articles, and actively contribute to academic research and scientific development.
+Beyond research, I teach undergraduate students, supervise academic projects, publish scientific articles, and review for peer-reviewed journals to actively drive academic and scientific development in Nigeria and beyond.
 
 ---
 
 # 🔬 Research Interests
 
-- Food Microbiology
-- Fermentation Microbiology
-- Metagenomics of Fermented Foods
-- Microbial Community Dynamics
-- Metabolomics of Fermented Foods
-- Food Safety and Quality
-- Safety Assessment of Fermented Foods
+- Food Microbiology & Food Safety
+- Fermentation Microbiology & Metabolomics
+- Metagenomics & Microbial Community Dynamics
+- Probiotics & Lactic Acid Bacteria (LAB)
 - Underutilized Indigenous African Food Crops
-- Plant-Based Fermented Foods
-- Functional Foods
-- Probiotics
-- Lactic Acid Bacteria
-- Microbial Biotechnology
-- Environmental Microbiology
-- Applied Microbiology
-- Biosorption
-- Antimicrobial Resistance
-- Plant-Based Antimicrobials
-- Public Health Microbiology
+- Functional & Plant-Based Fermented Foods
+- Microbial Biotechnology & Food Biotechnology
+- Environmental & Public Health Microbiology
+- Biosorption & Heavy Metal Remediation
+- Antimicrobial Resistance & Plant-Based Antimicrobials
 
 ---
 
@@ -50,38 +39,19 @@ I teach undergraduate students, supervise research projects, publish scientific 
 
 ### Microbial Community Dynamics and Metabolomic Changes During the Production of African Almond Seed Condiment
 
-Current work focuses on:
+My research seeks to understand the microbial ecology, functional metabolites, and safety of indigenous fermented foods from Africa. This specific project focuses on:
 
-- Metagenomic profiling of microbial communities
-- Microbial succession during fermentation
-- Metabolomic characterization of fermentation products
-- Fermentation of underutilized African plant resources
-- Food safety assessment
-- Functional food development
-- Lactic Acid Bacteria
-- Indigenous fermented foods
-- Microbial biotechnology
-
----
-
----
-
-# 🌍 Research Focus
-
-### My research seeks to understand the microbial ecology, functional metabolites, and safety of indigenous fermented foods from Africa. I am particularly interested in:
-
-- Metagenomic profiling of fermented foods from underexplored Nigerian plant resources.
-- Microbial community dynamics during spontaneous fermentation.
-- Metabolomic changes associated with traditional fermentation processes.
-- Safety assessment of fermented foods produced from underutilized African plants.
-- Identification of beneficial microorganisms for functional food development.
+- Metagenomic profiling and microbial succession during spontaneous fermentation.
+- Metabolomic characterization of traditional fermentation products.
+- Safety assessment of fermented foods produced from underexplored Nigerian plant resources.
+- Identification of beneficial microorganisms (e.g., LAB) for functional food development.
 - Sustainable utilization of indigenous food resources to improve food security, nutrition, and public health.
 
 ---
 
 # 👩‍🏫 Teaching
 
-Courses taught include
+Courses taught at the undergraduate level include:
 
 - Introductory Microbiology
 - Food Microbiology
@@ -92,56 +62,25 @@ Courses taught include
 
 ---
 
-# 🎓 Academic Activities
+# 💻 Laboratory & Research Skills
 
-- Teaching
-- Research
-- Student Project Supervision
-- Curriculum Support
-- Department Administration
-- Research Publications
+- Microbiological Analysis & Microbial Identification
+- Food Quality Assessment & Safety Testing
+- Fermentation Technology & Bioprocessing
+- Biosorption & Environmental Monitoring
+- Research Design, Execution & Data Analysis
+- Scientific & Academic Writing
 
----
 
-# 📚 Research Areas
+# 📚 Publications & Book Chapter
 
-- Food Preservation
-- Fermentation Technology
-- Probiotics
-- Biosorption
-- Environmental Microbiology
-- Food Biotechnology
-- Medicinal Plant Research
-- Foodborne Pathogens
-- Water Quality Assessment
-- Agricultural Microbiology
+### Research Output: 
 
----
+Author of more than 15 peer-reviewed journal articles and numerous conference papers exploring food preservation, lactic acid bacteria, heavy metal biosorption, environmental microbiology, herbal medicine, and antimicrobial activities.
 
-# 📖 Publications
-
-Research publications include work on
-
-- Food Preservation
-- Lactic Acid Bacteria
-- Heavy Metal Biosorption
-- Environmental Microbiology
-- Herbal Medicine
-- Water Microbiology
-- Food Safety
-- Probiotic Foods
-- Antimicrobial Activities
-- Agricultural Biotechnology
-
-Author of more than **15 peer-reviewed journal articles** and numerous conference papers. :contentReference[oaicite:1]{index=1}
-
----
-
-# 📘 Book
-
-**Environmental Microbiology for Polytechnics and Undergraduate Students**
-
-ISBN: 978-978-553-658-1 :contentReference[oaicite:2]{index=2}
+### Published Book:
+📘 Environmental Microbiology for Polytechnics and Undergraduate Students
+ISBN: 978-978-553-658-1
 
 ---
 
@@ -158,51 +97,20 @@ Participated in
 
 ---
 
-# 🧬 Areas of Expertise
-
-- Food Microbiology
-- Environmental Microbiology
-- Laboratory Techniques
-- Fermentation Technology
-- Biosorption
-- Food Quality Control
-- Microbial Identification
-- Scientific Writing
-- Research Supervision
-
----
-
-# 💻 Laboratory & Research Skills
-
-- Microbiological Analysis
-- Laboratory Techniques
-- Food Quality Assessment
-- Data Analysis
-- Scientific Research
-- Research Design
-- Academic Writing
+# 🌱 Academic Service
+- Student Research Supervision & Academic Mentorship
+- Scientific Journal Reviewer
+- Curriculum Development & Department Administration
+- Research Collaboration
 
 ---
 
 # 🏆 Professional Memberships
-
 - American Society for Microbiology (ASM)
 - Organization for Women in Science for the Developing World (OWSD)
 - Nigerian Institute of Science Laboratory Technology (NISLT)
-- Agricultural Society of Nigeria (ASN) :contentReference[oaicite:3]{index=3}
+- Agricultural Society of Nigeria (ASN)
 
----
-
-# 🌱 Academic Service
-
-- Student Research Supervision
-- Scientific Journal Reviewer
-- Academic Mentorship
-- Conference Participation
-- Research Collaboration
-- Curriculum Development
-
----
 
 # 📫 Contact
 
@@ -214,4 +122,4 @@ Participated in
 
 ---
 
-> **"Advancing Food Microbiology Through Innovative Research, Teaching and Scientific Collaboration."**
+> **Advancing Food Microbiology Through Innovative Research, Teaching and Scientific Collaboration.**
