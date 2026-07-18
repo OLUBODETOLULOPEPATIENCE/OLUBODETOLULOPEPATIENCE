@@ -25,14 +25,21 @@ I teach undergraduate students, supervise research projects, publish scientific 
 # 🔬 Research Interests
 
 - Food Microbiology
-- Environmental Microbiology
-- Applied Microbiology
-- Food Safety
-- Biotechnology
+- Fermentation Microbiology
+- Metagenomics of Fermented Foods
+- Microbial Community Dynamics
+- Metabolomics of Fermented Foods
+- Food Safety and Quality
+- Safety Assessment of Fermented Foods
+- Underutilized Indigenous African Food Crops
+- Plant-Based Fermented Foods
+- Functional Foods
 - Probiotics
 - Lactic Acid Bacteria
-- Biosorption
 - Microbial Biotechnology
+- Environmental Microbiology
+- Applied Microbiology
+- Biosorption
 - Antimicrobial Resistance
 - Plant-Based Antimicrobials
 - Public Health Microbiology
@@ -41,15 +48,34 @@ I teach undergraduate students, supervise research projects, publish scientific 
 
 # 🧪 Current Research
 
-### Bio-enrichment of Sorghum–Maize Slurry
+### Microbial Community Dynamics and Metabolomic Changes During the Production of African Almond Seed Condiment
 
-Current work focuses on
+Current work focuses on:
 
+- Metagenomic profiling of microbial communities
+- Microbial succession during fermentation
+- Metabolomic characterization of fermentation products
+- Fermentation of underutilized African plant resources
+- Food safety assessment
+- Functional food development
 - Lactic Acid Bacteria
-- Bio-enrichment
-- Functional Foods
-- Amino Acid Enhancement
-- Multivitamin Production
+- Indigenous fermented foods
+- Microbial biotechnology
+
+---
+
+---
+
+# 🌍 Research Focus
+
+### My research seeks to understand the microbial ecology, functional metabolites, and safety of indigenous fermented foods from Africa. I am particularly interested in:
+
+- Metagenomic profiling of fermented foods from underexplored Nigerian plant resources.
+- Microbial community dynamics during spontaneous fermentation.
+- Metabolomic changes associated with traditional fermentation processes.
+- Safety assessment of fermented foods produced from underutilized African plants.
+- Identification of beneficial microorganisms for functional food development.
+- Sustainable utilization of indigenous food resources to improve food security, nutrition, and public health.
 
 ---
 
