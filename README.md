@@ -12,7 +12,7 @@ Oyo State College of Agriculture and Technology (OYSCATECH), Nigeria
 
 ---
 
-# 👩‍🔬 About Me
+# 👩‍🔬 Professional Summary
 
 I am a Food Microbiologist, researcher, lecturer, and academic dedicated to advancing research in food microbiology, microbial biotechnology, food safety, environmental microbiology, and applied microbiology.
 
