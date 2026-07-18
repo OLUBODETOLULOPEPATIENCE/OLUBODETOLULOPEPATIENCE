@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dr. Tolulope Patience Olubode</h1>
+<h1 align="center">🚀 Dr. OLUBODE Tolulope Patience, PhD</h1>
 
 <h3 align="center">
 Microbiologist • Food Microbiology Researcher • Lecturer • Academic • Scientific Reviewer
